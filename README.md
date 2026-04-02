@@ -23,6 +23,8 @@ This project is a Machine Learning-based web application that predicts whether a
 
 ## 📷 Screenshots
 <img width="1900" height="927" alt="Screenshot 2026-04-02 193616" src="https://github.com/user-attachments/assets/ad3b515a-16a8-4677-aad1-3d099969ee91" />
+<img width="1895" height="970" alt="Screenshot 2026-04-02 193639" src="https://github.com/user-attachments/assets/c07997ef-6ea1-45e4-a16c-a5a33c570ff9" />
+
 
 
 ## 🔮 Future Improvements
